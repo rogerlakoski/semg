@@ -1,0 +1,21 @@
+Added Component: Designator=U1(SOIC-8)
+Add component (AddParameter): Name = "CDM"; Value = "C12452"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet 1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.st.com/content/ccc/resource/technical/document/datasheet/61/46/87/01/98/ed/44/c5/CD00000464.pdf/files/CD00000464.pdf/jcr:content/translations/en.CD00000464.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LM358ADT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size"; Value = "SOIC-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "497-1590-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "LM358ADT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR2_2 Pin=U1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-2
+Added Pin To Net: NetName=NetElet.1_0 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetElet.3_0 Pin=U1-5
+Added Pin To Net: NetName=NetC1_2 Pin=U1-6
+Added Pin To Net: NetName=VOUT Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Member To Class: ClassName=Mestrado_Roger Member=Component U1 LM358ADT

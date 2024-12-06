@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [Sensor_Proteses.PcbDoc]
+   Generated File[Sensor_Proteses.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:05:20 On 05/11/2024

@@ -1,0 +1,237 @@
+*************************************************************
+FileName = Sensor_Proteses.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Pad Master
+      File : Sensor_Proteses.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D30
+    D31
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Sensor_Proteses.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Sensor_Proteses.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Sensor_Proteses.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Sensor_Proteses.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Sensor_Proteses.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Sensor_Proteses.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Sensor_Proteses.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Sensor_Proteses.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Sensor_Proteses.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Sensor_Proteses.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Sensor_Proteses.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Sensor_Proteses.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D11
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Sensor_Proteses.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Sensor_Proteses.GM
+
+
+Used DCodes :
+    D37
+*************************************************************
+

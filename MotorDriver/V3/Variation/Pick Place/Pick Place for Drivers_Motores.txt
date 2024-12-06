@@ -1,0 +1,63 @@
+Altium Designer Pick and Place Locations
+E:\WF_Tecnologia\Roger_Lakoski_Mestrado\RL_Drivers_Motores\OUTPUT\Variation\Pick Place\Pick Place for Drivers_Motores.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       05/11/24
+Time:       23:28
+Revision:   6efdcbb00342f0ab14fcfb527c54a739bea5b0fb
+Variant:    No variations
+Units used: mm
+
+Designator Comment    Layer       Footprint   Center-X(mm) Center-Y(mm) Rotation Description                                                                                                          
+CN1        IDCSC-26   TopLayer    IDCSC-26    5.0000       25.0000      270      "IDCSC-26
+CONECTOR BOX HEADER SEM EJETOR, 26 VIAS (2X13), 180 GRAUS, PASSO 2,54MM"                                  
+U3         DRV8833PW  TopLayer    TSSOP-16    20.0000      12.0000      180      "IC MOTOR DRIVER PAR 16-TSSOP
+Bipolar Controlador de motor NMOS PWM 16-TSSOP"                                       
+U2         DRV8833PW  TopLayer    TSSOP-16    20.0000      25.0000      180      "IC MOTOR DRIVER PAR 16-TSSOP
+Bipolar Controlador de motor NMOS PWM 16-TSSOP"                                       
+U1         DRV8833PW  TopLayer    TSSOP-16    20.0000      38.0000      180      "IC MOTOR DRIVER PAR 16-TSSOP
+Bipolar Controlador de motor NMOS PWM 16-TSSOP"                                       
+U5         LM339DR2G  BottomLayer SOIC-14     16.0000      18.6500      270      "IC COMPARATOR 4 GEN PUR 
+Comparador Uso geral CMOS, coletor aberto, TTL 14-SOIC"                                   
+U4         LM339DR2G  BottomLayer SOIC-14     16.0000      31.3500      270      "IC COMPARATOR 4 GEN PUR 
+Comparador Uso geral CMOS, coletor aberto, TTL 14-SOIC"                                   
+R5         100k       TopLayer    SMD_R0603_F 13.2500      5.3340       0        "100 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                   
+R12        1k         BottomLayer SMD_R0603_F 12.8270      25.4500      0        "1 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) AEC-Q200 automotivo Filme grosso"                      
+R11        100k       BottomLayer SMD_R0603_F 15.1130      26.2000      90       "100 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                   
+R2         1k         TopLayer    SMD_R0603_F 22.3520      28.9680      180      "1 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) AEC-Q200 automotivo Filme grosso"                      
+R1         100k       TopLayer    SMD_R0603_F 20.0660      29.7180      90       "100 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                   
+R4         1k         TopLayer    SMD_R0603_F 22.3520      16.0140      180      "1 Ohms ±1% 0,333W, 1/3W Resistor de chip 0603 (métrico 1608) AEC-Q200 automotivo, resistente a pulsos Filme grosso" 
+R10        1k         BottomLayer SMD_R0603_F 22.8480      31.7500      90       "1 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) AEC-Q200 automotivo Filme grosso"                      
+R3         100k       TopLayer    SMD_R0603_F 20.0660      16.7640      90       "100 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                   
+R9         100k       BottomLayer SMD_R0603_F 22.0980      34.0100      180      "100 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                   
+R14        1k         BottomLayer SMD_R0603_F 23.6220      19.8100      180      "1 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) AEC-Q200 automotivo Filme grosso"                      
+R7         1k         BottomLayer SMD_R0603_F 14.9860      37.4500      0        "1 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) AEC-Q200 automotivo Filme grosso"                      
+R13        100k       BottomLayer SMD_R0603_F 21.3360      20.5600      90       "100 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                   
+R8         100k       BottomLayer SMD_R0603_F 17.2700      36.7000      270      "100 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                   
+R6         47k        BottomLayer SMD_R0603_F 3.7300       43.5000      270      "47 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                    
+CN6        PHMN4-02   TopLayer    PHMC4-02    28.5000      15.2500      270      "CONECTOR MACHO PARA PCI, 2 VIAS, 90 GRAUS, PASSO 2,0MM"                                                             
+CN7        PHMN4-02   TopLayer    PHMC4-02    28.5000      8.7500       270      "CONECTOR MACHO PARA PCI, 2 VIAS, 90 GRAUS, PASSO 2,0MM"                                                             
+CN4        PHMN4-02   TopLayer    PHMC4-02    28.5000      28.2500      270      "CONECTOR MACHO PARA PCI, 2 VIAS, 90 GRAUS, PASSO 2,0MM"                                                             
+CN5        PHMN4-02   TopLayer    PHMC4-02    28.5000      21.7500      270      "CONECTOR MACHO PARA PCI, 2 VIAS, 90 GRAUS, PASSO 2,0MM"                                                             
+CN2        PHMN4-02   TopLayer    PHMC4-02    28.5000      41.2500      270      "CONECTOR MACHO PARA PCI, 2 VIAS, 90 GRAUS, PASSO 2,0MM"                                                             
+CN3        PHMN4-02   TopLayer    PHMC4-02    28.5000      34.7500      270      "CONECTOR MACHO PARA PCI, 2 VIAS, 90 GRAUS, PASSO 2,0MM"                                                             
+C14        10nF       TopLayer    SMD_C_0603  13.2000      6.9850       180      "10nF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             
+C17        10nF       BottomLayer SMD_C_0603  12.8270      26.9500      180      "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                           
+C5         10nF       TopLayer    SMD_C_0603  22.3520      30.4680      0        "10nF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             
+C10        10nF       TopLayer    SMD_C_0603  22.3520      17.5260      0        "10nF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             
+C16        10nF       BottomLayer SMD_C_0603  21.3480      31.7500      270      "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                           
+C18        10nF       BottomLayer SMD_C_0603  23.6220      21.3100      0        "10nF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             
+C15        10nF       BottomLayer SMD_C_0603  14.9860      35.9500      180      "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                           
+C9         "10uF X5R" TopLayer    SMD_C_0805  12.7000      18.6850      270      "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                            
+C4         "10uF X5R" TopLayer    SMD_C_0805  12.7000      31.3500      270      "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                            
+C13        "10uF X5R" TopLayer    SMD_C_0805  14.0000      10.0000      90       "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                            
+C12        "10uF X5R" TopLayer    SMD_C_0805  12.0000      12.0000      270      "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                            
+C11        10nF       TopLayer    SMD_C_0603  14.0000      13.8000      90       "10nF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             
+C8         "10uF X5R" TopLayer    SMD_C_0805  14.0000      23.0000      90       "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                            
+C7         "10uF X5R" TopLayer    SMD_C_0805  12.0000      25.0000      270      "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                            
+C6         10nF       TopLayer    SMD_C_0603  13.9700      26.6700      90       "10nF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             
+C3         "10uF X5R" TopLayer    SMD_C_0805  14.0000      36.0000      90       "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                            
+C1         10nF       TopLayer    SMD_C_0603  14.0000      39.8000      90       "10nF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                                             
+C2         "10uF X5R" TopLayer    SMD_C_0805  12.0000      38.0000      270      "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                            

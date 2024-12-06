@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+D:\Project_Roger\OUTPUT\Variation\Pick Place\Pick Place for Mestrado_Roger_2mm.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/11/23
+Time:       02:04
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer       Footprint   Center-X(mil) Center-Y(mil) Rotation Description                                                                                
+C3         100uF_X5R          TopLayer    SMD_C_1206  295.276       440.000       0        "100 µF ±20% 4V Ceramic Capacitor X5R 0805 (2012 Metric)"                                  
+C1         27nF               TopLayer    SMD_C_0603  382.244       866.142       180      "0.027 µF ±10% 25V Ceramic Capacitor X7R 0603 (1608 Metric)"                               
+C2         100nF              TopLayer    SMD_C_0603  382.244       760.000       180      "0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"                                 
+CN2        Pad                TopLayer    Pad         551.181       649.606       180      ""                                                                                         
+Elet.1     Circuito_Eletroudo BottomLayer ELETROUDO   295.276       866.142       0        ""                                                                                         
+Elet.2     Circuito_Eletroudo BottomLayer ELETROUDO   295.276       590.551       0        ""                                                                                         
+Elet.3     Circuito_Eletroudo BottomLayer ELETROUDO   295.276       314.961       0        ""                                                                                         
+R3         220R               TopLayer    SMD_R0603_F 105.000       525.000       270      "220 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"  
+R2         220k               TopLayer    SMD_R0603_F 105.000       640.000       90       "220 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film" 
+R4         330k               TopLayer    SMD_R0603_F 310.000       365.000       0        "330 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film" 
+R1         330k               TopLayer    SMD_R0603_F 320.000       930.000       180      "330 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film" 
+R5         220k               TopLayer    SMD_R0603_F 310.000       305.000       0        "220 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film" 
+CN4        Pad                TopLayer    Pad         551.181       393.701       180      ""                                                                                         
+CN3        Pad                TopLayer    Pad         551.181       531.496       180      ""                                                                                         
+CN1        Pad                TopLayer    Pad         551.181       787.402       0        ""                                                                                         
+U1         LM358ADT           TopLayer    SOIC-8      305.472       590.000       0        "Uso geral Amplificador 2 Circuito 8-SOIC"                                                 

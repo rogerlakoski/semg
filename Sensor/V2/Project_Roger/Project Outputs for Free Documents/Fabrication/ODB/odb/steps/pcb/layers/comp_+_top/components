@@ -1,0 +1,171 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 4 11.049 19.558 90 N U1 LM358FVM-GTR ;0=1,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://www.rohm.com/datasheet?p=LM358FVM&dist=Digi-key&media=referral&source=digi-key.com&campaign=Digi-key'
+PRP Manufacturer 'Rohm Semiconductor'
+PRP Part_Number 'LM358FVM-GTR'
+PRP Size 'MSOP-8'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'LM358FVM-GTRTR-ND'
+PRP System ''
+PRP Type 'SMD'
+PRP Value 'LM358FVM-GTR'
+TOP 0 12.02399932 21.75800068 0 N 4 2 1
+TOP 1 11.37400062 21.75800068 0 N 5 2 2
+TOP 2 10.72399938 21.75800068 0 N 7 1 3
+TOP 3 10.07400068 21.75800068 0 N 11 6 4
+TOP 4 10.07400068 17.35799932 0 N 6 0 5
+TOP 5 10.72399938 17.35799932 0 N 9 2 6
+TOP 6 11.37400062 17.35799932 0 N 1 1 7
+TOP 7 12.02399932 17.35799932 0 N 2 2 8
+#
+# CMP 1
+CMP 7 13.843 21.082 90 N R5 220k ;0=1,1=0.0000
+PRP CDM 'C10444'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07220KL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-220KHRTR-ND'
+PRP Type 'SMD'
+PRP Value '220k'
+TOP 0 13.843 21.83200104 90 N 4 0 1
+TOP 1 13.843 20.33199896 90 N 9 0 2
+#
+# CMP 2
+CMP 7 12.319 25.908 180 N R4 330k ;0=1,1=0.0000
+PRP CDM 'C12147'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07330KL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-330KHRTR-ND'
+PRP Type 'SMD'
+PRP Value '330k'
+TOP 0 13.06900104 25.908 180 N 8 1 1
+TOP 1 11.56899896 25.908 180 N 5 0 2
+#
+# CMP 3
+CMP 7 11.684 14.732 180 N R3 330k ;0=1,1=0.0000
+PRP CDM 'C12147'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07330KL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-330KHRTR-ND'
+PRP Type 'SMD'
+PRP Value '330k'
+TOP 0 12.43400104 14.732 180 N 1 2 1
+TOP 1 10.93399896 14.732 180 N 9 3 2
+#
+# CMP 4
+CMP 7 12.319 24.384 0 N R2 220k ;0=1,1=0.0000
+PRP CDM 'C10444'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07220KL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-220KHRTR-ND'
+PRP Type 'SMD'
+PRP Value '220k'
+TOP 0 11.56899896 24.384 0 N 5 1 1
+TOP 1 13.06900104 24.384 0 N 4 1 2
+#
+# CMP 5
+CMP 7 7.874 22.987 90 N R1 220R ;0=1,1=0.0000
+PRP CDM 'C10420'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07220RL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-220HRTR-ND'
+PRP Type 'SMD'
+PRP Value '220R'
+TOP 0 7.874 23.73700104 90 N 5 3 1
+TOP 1 7.874 22.23699896 90 N 10 0 2
+#
+# CMP 6
+CMP 3 19.0000001 20.00000064 270 N CN1 FFC/FPC-6 ;0=1,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://www.molex.com/pdm_docs/sd/522070660_sd.pdf'
+PRP Manufacturer 'Molex'
+PRP Part_Number '0522070660'
+PRP Size '1mm'
+PRP Supplier_1 'DIGI-KEY'
+PRP Supplier_Part_Number_1 'WM10939TR-ND'
+PRP System 'Connector'
+PRP Type 'SMD'
+PRP Value 'FFC/FPC-6'
+TOP 0 20.20000024 25.65000204 90 N 0 3 0
+TOP 1 20.20000024 14.35000432 270 N 0 0 0
+TOP 2 17.79999996 17.5000031 90 N 2 0 1
+TOP 3 17.79999996 18.50000364 90 N 3 0 2
+TOP 4 17.79999996 19.50000418 90 N 1 0 3
+TOP 5 17.79999996 20.50000218 90 N 0 1 4
+TOP 6 17.79999996 21.50000272 90 N 0 2 5
+TOP 7 17.79999996 22.50000326 90 N 11 4 6
+#
+# CMP 7
+CMP 5 13.462 18.161 270 N C3 100nF ;0=1,1=0.0000
+PRP CDM 'C10416'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Part_Number 'C1608X7R1H104K080AA'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-1314-2-ND'
+PRP Type 'SMD'
+PRP Value '100nF'
+TOP 0 13.462 17.3610016 270 N 2 1 1
+TOP 1 13.462 18.96100348 270 N 11 5 2
+#
+# CMP 8
+CMP 5 15.24 20.955 270 N C2 27nF ;0=1,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://calchip.com/wp-content/uploads/2023/09/GMC-Series-2.pdf'
+PRP Manufacturer 'Cal-Chip Electronics, Inc.'
+PRP Part_Number 'GMC10X7R273K25NT'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '2571-GMC10X7R273K25NTTR-ND'
+PRP Type 'SMD'
+PRP Value '27nF'
+TOP 0 15.24 20.1550016 270 N 3 1 1
+TOP 1 15.24 21.75500348 270 N 8 0 2
+#
+# CMP 9
+CMP 6 7.874 19.939 90 N C1 100uF_X5R ;0=1,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR60G107ME11-01.pdf'
+PRP Manufacturer 'Murata Electronics'
+PRP Part_Number 'GRM21BR60G107ME11L'
+PRP Size '0805'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '490-13980-2-ND'
+PRP Type 'SMD'
+PRP Value '100uF_X5R'
+TOP 0 7.874 20.93900054 90 N 10 1 1
+TOP 1 7.874 18.93899946 90 N 9 1 2
+#

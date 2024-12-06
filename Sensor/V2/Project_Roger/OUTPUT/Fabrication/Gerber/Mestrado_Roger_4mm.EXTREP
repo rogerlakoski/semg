@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Mestrado_Roger_4mm.GBR   28/11/2023  02:03:00
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.gbr                Top Overlay                             
+.gbr                Top Paste                               
+.gbr                Top Solder                              
+.gbr                Top Layer                               
+.gbr                Bottom Layer                            
+.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
+.gbr                Bottom Overlay                          
+.gbr                Mechanical 1                            
+.gbr                Mechanical 15                           
+.gbr                Route Tool Path                         
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
+.gbr                Profile                                 
+------------------------------------------------------------------------------------------

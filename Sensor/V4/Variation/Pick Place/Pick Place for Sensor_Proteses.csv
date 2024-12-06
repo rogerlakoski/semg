@@ -1,0 +1,55 @@
+Altium Designer Pick and Place Locations
+E:\WF_Tecnologia\Roger_Lakoski_Mestrado\RL_Sensor_Proteses\OUTPUT\Variation\Pick Place\Pick Place for Sensor_Proteses.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/05/24
+Time:       21:02
+Revision:   88147435f8daeace8ca1ca1de8f8940704269466
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"TP2","TP 4952","TopLayer","TP_PTH_4952","5.0950","7.3000","0","Ponto de Teste de circuito impresso Revestimento Montagem em superfície Tipo de montagem, 1206"
+"TP1","TP 4952","TopLayer","TP_PTH_4952","6.3650","22.7000","0","Ponto de Teste de circuito impresso Revestimento Montagem em superfície Tipo de montagem, 1206"
+"R3","220R","TopLayer","SMD_R0603_F","3.6500","14.7320","270","220 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"CN7","Castellated","TopLayer","CASTELLATED(X:1.5;Y2.0;H1.5)","15.0000","6.0000","90","Castellated
+X:1.5mm
+Y:2.0mm
+Hole:1.5mm"
+"CN6","Castellated","TopLayer","CASTELLATED(X:1.5;Y2.0;H1.5)","0.0000","20.0000","270","Castellated
+X:1.5mm
+Y:2.0mm
+Hole:1.5mm"
+"CN5","Castellated","TopLayer","CASTELLATED(X:1.5;Y2.0;H1.5)","15.0000","24.0000","90","Castellated
+X:1.5mm
+Y:2.0mm
+Hole:1.5mm"
+"CN4","Castellated","TopLayer","CASTELLATED(X:1.5;Y2.0;H1.5)","15.0000","18.0000","90","Castellated
+X:1.5mm
+Y:2.0mm
+Hole:1.5mm"
+"CN3","Castellated","TopLayer","CASTELLATED(X:1.5;Y2.0;H1.5)","0.0000","15.0000","270","Castellated
+X:1.5mm
+Y:2.0mm
+Hole:1.5mm"
+"CN2","Castellated","TopLayer","CASTELLATED(X:1.5;Y2.0;H1.5)","0.0000","10.0000","270","Castellated
+X:1.5mm
+Y:2.0mm
+Hole:1.5mm"
+"CN1","Castellated","TopLayer","CASTELLATED(X:1.5;Y2.0;H1.5)","15.0000","12.0000","90","Castellated
+X:1.5mm
+Y:2.0mm
+Hole:1.5mm"
+"U1","LMV358AIDR","TopLayer","SOIC-8","7.0000","15.0000","270","Uso geral Amplificador 2 Circuito Rail-to-Rail 8-SOIC"
+"R5","220k","TopLayer","SMD_R0603_F","10.4000","14.9860","270","220 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R1","330k","TopLayer","SMD_R0603_F","8.8900","21.8440","180","330 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R4","330k","TopLayer","SMD_R0603_F","7.6150","7.8740","180","330 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R2","220k","TopLayer","SMD_R0603_F","8.8900","20.1930","0","220 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"Elet.3","Circuito_Eletroudo","BottomLayer","ELETROUDO","7.5000","4.0000","0",""
+"Elet.2","Circuito_Eletroudo","BottomLayer","ELETROUDO","7.5000","15.0000","0",""
+"Elet.1","Circuito_Eletroudo","BottomLayer","ELETROUDO","7.5000","26.0000","0",""
+"C2","100nF","TopLayer","SMD_C_0603","11.9000","15.0000","90","0.1 µF ±10% 50V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C1","27nF","TopLayer","SMD_C_0603","11.8110","21.8440","180","0.027 µF ±10% 25V Ceramic Capacitor X7R 0603 (1608 Metric)"
+"C3","100nF","TopLayer","SMD_C_1206","5.1650","9.9060","0","0.1 µF ±10% 50V Capacitor de cerâmica X7R 1206 (métrico 3216)"

@@ -1,0 +1,218 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 12 8.77000024 9.906 180 N U3 MCP1700T ;0=1,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1700-Data-Sheet-20001826F.pdf'
+PRP Manufacturer 'Microchip Technology'
+PRP Part_Number 'MCP1700T-3302E/TT'
+PRP Size 'SOT23-3'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'MCP1700T3302ETTTR-ND'
+PRP Type 'SMD'
+PRP Value 'MCP1700T'
+TOP 0 7.62 8.9560019 0 N 24 41 U3-1
+TOP 1 7.62 10.8559981 0 N 26 15 U3-2
+TOP 2 9.92000048 9.906 0 N 25 10 U3-3
+#
+# CMP 1
+CMP 11 5.59999896 30.099 180 N R4 100R ;0=1,1=0.0000
+PRP CDM 'C10429'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07100RL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-100HRTR-ND'
+PRP Type 'SMD'
+PRP Value '100R'
+TOP 0 4.84999792 30.099 0 N 10 2 R4-1
+TOP 1 6.35 30.099 0 N 17 4 R4-2
+#
+# CMP 2
+CMP 11 5.59999896 27.559 180 N R5 100R ;0=1,1=0.0000
+PRP CDM 'C10429'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07100RL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-100HRTR-ND'
+PRP Type 'SMD'
+PRP Value '100R'
+TOP 0 4.84999792 27.559 0 N 11 2 R5-1
+TOP 1 6.35 27.559 0 N 18 4 R5-2
+#
+# CMP 3
+CMP 11 5.59999896 25.019 180 N R7 100R ;0=1,1=0.0000
+PRP CDM 'C10429'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07100RL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-100HRTR-ND'
+PRP Type 'SMD'
+PRP Value '100R'
+TOP 0 4.84999792 25.019 0 N 12 2 R7-1
+TOP 1 6.35 25.019 0 N 1 4 R7-2
+#
+# CMP 4
+CMP 11 5.59999896 22.47899746 180 N R6 100R ;0=1,1=0.0000
+PRP CDM 'C10429'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07100RL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-100HRTR-ND'
+PRP Type 'SMD'
+PRP Value '100R'
+TOP 0 4.84999792 22.47899746 0 N 13 2 R6-1
+TOP 1 6.35 22.47899746 0 N 2 4 R6-2
+#
+# CMP 5
+CMP 11 6.223 15.42200116 0 N R8 10k ;0=1,1=0.0000
+PRP CDM 'C10436'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-0710KL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-10.0KHRTR-ND'
+PRP Type 'SMD'
+PRP Value '10k'
+TOP 0 6.97300104 15.42200116 180 N 24 39 R8-1
+TOP 1 5.47299896 15.42200116 180 N 22 8 R8-2
+#
+# CMP 6
+CMP 11 6.223 13.843 180 N R9 10k ;0=1,1=0.0000
+PRP CDM 'C10436'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-0710KL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-10.0KHRTR-ND'
+PRP Type 'SMD'
+PRP Value '10k'
+TOP 0 5.47299896 13.84299746 0 N 22 10 R9-1
+TOP 1 6.97300104 13.84299746 0 N 26 17 R9-2
+#
+# CMP 7
+CMP 11 10.287 34.925 180 N R3 10k ;0=1,1=0.0000
+PRP CDM 'C10436'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-0710KL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-10.0KHRTR-ND'
+PRP Type 'SMD'
+PRP Value '10k'
+TOP 0 9.53699896 34.925 0 N 23 7 R3-1
+TOP 1 11.03700104 34.925 0 N 26 14 R3-2
+#
+# CMP 8
+CMP 9 6.223 17.272 180 N C8 10uF_X5R ;0=1,1=0.0000
+PRP CDM 'C10686'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C0805C106K8PACTU'
+PRP Manufacturer 'KEMET'
+PRP Part_Number 'C0805C106K8PAC7800'
+PRP Size '0805'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '399-C0805C106K8PAC7800TR-ND'
+PRP Type 'SMD'
+PRP Value '10uF X5R'
+TOP 0 5.22299946 17.272 0 N 22 9 C8-1
+TOP 1 7.22300054 17.272 0 N 24 40 C8-2
+#
+# CMP 9
+CMP 8 5.715 9.906 90 N C6 1uF ;0=1,1=0.0000
+PRP CDM 'C10682'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Part_Number 'C1608X5R1H105K080AB'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-7468-2-ND'
+PRP Type 'SMD'
+PRP Value '1uF'
+TOP 0 5.715 10.7059984 90 N 26 16 C6-1
+TOP 1 5.715 9.10599652 90 N 24 42 C6-2
+#
+# CMP 10
+CMP 8 6.51500094 7.493 0 N C7 1uF ;0=1,1=0.0000
+PRP CDM 'C10682'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Part_Number 'C1608X5R1H105K080AB'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-7468-2-ND'
+PRP Type 'SMD'
+PRP Value '1uF'
+TOP 0 7.31500188 7.49299746 180 N 25 11 C7-1
+TOP 1 5.715 7.49299746 180 N 24 43 C7-2
+#
+# CMP 11
+CMP 8 9.271 37.87999536 270 N C4 1uF ;0=1,1=0.0000
+PRP CDM 'C10682'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Part_Number 'C1608X5R1H105K080AB'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-7468-2-ND'
+PRP Type 'SMD'
+PRP Value '1uF'
+TOP 0 9.271 37.07999696 270 N 26 13 C4-1
+TOP 1 9.271 38.67999884 270 N 24 37 C4-2
+#
+# CMP 12
+CMP 9 11.049 37.6799983 270 N C3 10uF_X5R ;0=1,1=0.0000
+PRP CDM 'C10686'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C0805C106K8PACTU'
+PRP Manufacturer 'KEMET'
+PRP Part_Number 'C0805C106K8PAC7800'
+PRP Size '0805'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '399-C0805C106K8PAC7800TR-ND'
+PRP Type 'SMD'
+PRP Value '10uF X5R'
+TOP 0 11.049 36.67999776 270 N 26 12 C3-1
+TOP 1 11.049 38.67999884 270 N 24 36 C3-2
+#
+# CMP 13
+CMP 9 9.53699896 31.95999958 90 N C5 10uF_X5R ;0=1,1=0.0000
+PRP CDM 'C10686'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/datasheet/C0805C106K8PACTU'
+PRP Manufacturer 'KEMET'
+PRP Part_Number 'C0805C106K8PAC7800'
+PRP Size '0805'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '399-C0805C106K8PAC7800TR-ND'
+PRP Type 'SMD'
+PRP Value '10uF X5R'
+TOP 0 9.53699896 32.96000012 90 N 23 6 C5-1
+TOP 1 9.53699896 30.95999904 90 N 24 38 C5-2
+#

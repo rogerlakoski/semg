@@ -1,0 +1,10 @@
+Output: Export STEP
+Type  : ExportSTEP
+From  : PCB Document [Motherboard_Bracelet.PcbDoc]
+   Generated File[Motherboard_Bracelet.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:35:56 On 04/11/2024

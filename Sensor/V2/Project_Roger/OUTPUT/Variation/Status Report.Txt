@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [Mestrado_Roger.SchDoc]
+   Generated File[Bill of Materials-Mestrado_Roger.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 02:04:05 On 28/11/2023

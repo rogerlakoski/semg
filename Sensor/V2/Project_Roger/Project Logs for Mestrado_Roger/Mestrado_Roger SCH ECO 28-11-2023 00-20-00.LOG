@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=CN1 NewDesignator=CN2
+Change Component Designator: OldDesignator=CN2 NewDesignator=CN4
+Change Component Designator: OldDesignator=CN4 NewDesignator=CN1
+Change Component Designator: OldDesignator=R1 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R1

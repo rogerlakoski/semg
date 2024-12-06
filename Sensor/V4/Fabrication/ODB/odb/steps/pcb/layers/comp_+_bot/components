@@ -1,0 +1,19 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 7.50000024 2.99999908 180 N Elet.3 Circuito_Eletroudo ;0=1,1=0.0000
+TOP 0 7.50000024 3.99999962 90 N 6 1 Elet.3-0
+#
+# CMP 1
+CMP 2 7.50000024 14.351 180 N Elet.2 Circuito_Eletroudo ;0=1,1=0.0000
+TOP 0 7.50000024 15.00000048 90 N 3 10 Elet.2-0
+#
+# CMP 2
+CMP 3 7.50000024 25.9999988 180 N Elet.1 Circuito_Eletroudo ;0=1,1=0.0000
+TOP 0 7.50000024 25.9999988 90 N 7 1 Elet.1-0
+#

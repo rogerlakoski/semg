@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Motherboard_Bracelet.PcbDoc   4/4/2024  2:36:11 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Motherboard_Bracelet-RoundHoles.TXT
+ASCII SlotHoles File : Motherboard_Bracelet-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             4         PTH        3.00mm (0.12inch)
+T2      0.3mm (12mil)                                             Round             9         PTH        13.51mm (0.53inch)
+T3      0.38mm (15mil)                                            Round             13        PTH        32.83mm (1.29inch)
+T4      0.51mm (20mil)                                            Round             3         PTH        40.00mm (1.57inch)
+T5      0.9mm (35mil)                                             Round             2         PTH        2.00mm (0.08inch)
+T6      1mm (39mil)                                               Round             7         PTH        37.23mm (1.47inch)
+T7      1mm (39mil)                                               Slot              3         PTH        30.86mm (1.21inch)
+T8      1.02mm (40mil)                                            Round             10        PTH        27.94mm (1.10inch)
+T9      2.5mm (98mil)                                             Round             4         PTH        80.01mm (3.15inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              55
+
+Total Processing Time (hh:mm:ss) : 00:00:00

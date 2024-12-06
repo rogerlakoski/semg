@@ -1,0 +1,10 @@
+Output: Copy of Export STEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Mestrado_Roger_2mm.PcbDoc]
+   Generated File[Mestrado_Roger_2mm.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 02:03:16 On 28/11/2023

@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: E:\WF_Tecnologia\Roger_Lakoski_Mestrado\RL_Sensor_Proteses\Sensor_Proteses.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=sensor_proteses-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=sensor_proteses-slotholes.txt|DrillLayers=gtl,gbl

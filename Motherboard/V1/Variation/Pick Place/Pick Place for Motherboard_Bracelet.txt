@@ -1,0 +1,44 @@
+Altium Designer Pick and Place Locations
+Y:\GIT\WF_Tecnologia\Roger_Lakoski_Mestrado\RL_Motherboard_Bracelet\OUTPUT\Variation\Pick Place\Pick Place for Motherboard_Bracelet.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/04/24
+Time:       02:36
+Revision:   71842ce714949553a516832719a603d68660a282
+Variant:    No variations
+Units used: mm
+
+Designator Comment          Layer       Footprint              Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                                                                      
+CN5        IDCSN-10         TopLayer    LATCH_S/_EJETOR_10VIAS 15.0000      15.2400      0        "IDCSN-10
+CONECTOR BOX HEADER SEM EJETOR, 10 VIAS (2X5), 90 GRAUS, PASSO 2,54MM"                                                                                                
+CN1        BPSC-04          TopLayer    BPSC-04                2.9000       26.2890      90       "BARRA DE PINOS FILEIRA SIMPLES 180 GRAUS 04 VIAS DOURADA, PASSO DE 2,54MM,"                                                                                                     
+CN2        BPSC-03          TopLayer    BPSC-03                27.0510      31.8770      270      "BARRA DE PINOS FILEIRA SIMPLES 180 GRAUS 03 VIAS DOURADA, PASSO DE 2,54MM, COMPRIMENTO DE 11,54MM"                                                                              
+U3         MCP1700T         BottomLayer SOT23-3                8.7700       9.9060       0        "IC REG LINEAR 3.3V 250MA
+CI regulador de tensão linear Positivo Fixo 1 Saída 250mA SOT-23-3"                                                                                   
+U2         MCP73831-2ACI/MC TopLayer    DFN-8                  10.6680      5.5880       180      "IC BATT CONTRL LI-ION 1CELL 8DFN
+CI carregador Íon / polímero de lítio 8-DFN (2x3)"                                                                                            
+U1         ESP32-WROOM-32D  TopLayer    MODULO_ESP32-WROOM-32D 15.0000      29.8000      0        "RF TXRX MODULE BT TRACE ANT SMD
+Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 + EDR, Classe 1, 2 e 3 Módulo transceptor 2,4GHz a 2,5GHz Integrado, Trace Montagem em superfície" 
+SW1        ""               TopLayer    Button_PAD             27.0510      23.3680      90       "Botão em pad"                                                                                                                                                                   
+R4         100R             BottomLayer SMD_R0603_F            5.6000       30.0990      0        "100 Ohms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                                                                                
+R5         100R             BottomLayer SMD_R0603_F            5.6000       27.5590      0        "100 Ohms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                                                                                
+R7         100R             BottomLayer SMD_R0603_F            5.6000       25.0190      0        "100 Ohms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                                                                                
+R6         100R             BottomLayer SMD_R0603_F            5.6000       22.4790      0        "100 Ohms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                                                                                
+R8         10k              BottomLayer SMD_R0603_F            6.2230       15.4220      180      "10 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                                                                                
+R9         10k              BottomLayer SMD_R0603_F            6.2230       13.8430      0        "10 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                                                                                
+R1         10k              TopLayer    SMD_R0603_F            12.8270      4.8380       270      "10 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                                                                                
+R2         470R             TopLayer    SMD_R0603_F            10.8650      2.7940       0        "470 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"                                                                                        
+R3         10k              BottomLayer SMD_R0603_F            10.2870      34.9250      0        "10 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                                                                                
+LD1        Red-Diffused     TopLayer    SMD_L0805              12.1920      1.0160       180      "Vermelho 633nm Indicadores LED - Discreto 2V 0805 (métrico 2012)"                                                                                                               
+CN3        PHMN4-02         TopLayer    PHMC4-02               6.4000       3.2000       90       "CONECTOR MACHO PARA PCI, 2 VIAS, 90 GRAUS, PASSO 2,0MM"                                                                                                                         
+CN4        "Jack P4"        TopLayer    JDCN2.0                20.0500      7.0990       180      ""                                                                                                                                                                               
+C8         "10uF X5R"       BottomLayer SMD_C_0805             6.2230       17.2720      0        "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                                                                                        
+C1         4u7F             TopLayer    SMD_C_0603             8.6360       3.1750       270      "4.7 µF ±10% 25V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                                                                                       
+C6         1uF              BottomLayer SMD_C_0603             5.7150       9.9060       270      "1 µF ±10% 50V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                                                                                         
+C7         1uF              BottomLayer SMD_C_0603             6.5150       7.4930       180      "1 µF ±10% 50V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                                                                                         
+C2         4u7F             TopLayer    SMD_C_0603             12.8270      7.9120       270      "4.7 µF ±10% 25V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                                                                                       
+C4         1uF              BottomLayer SMD_C_0603             9.2710       37.8800      90       "1 µF ±10% 50V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                                                                                         
+C3         "10uF X5R"       BottomLayer SMD_C_0805             11.0490      37.6800      90       "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                                                                                        
+C5         "10uF X5R"       BottomLayer SMD_C_0805             9.5370       31.9600      270      "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                                                                                        

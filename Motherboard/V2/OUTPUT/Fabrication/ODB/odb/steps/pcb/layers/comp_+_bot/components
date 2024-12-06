@@ -1,0 +1,194 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 12 15.494 6.47654788 90 N U3 MCP1700T ;0=1,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1700-Data-Sheet-20001826F.pdf'
+PRP Manufacturer 'Microchip Technology'
+PRP Part_Number 'MCP1700T-3302E/TT'
+PRP Size 'SOT23-3'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'MCP1700T3302ETTTR-ND'
+PRP Type 'SMD'
+PRP Value 'MCP1700T'
+TOP 0 14.54399936 7.62654812 90 N 27 18 U3-1
+TOP 1 16.44400064 7.62654812 90 N 29 7 U3-2
+TOP 2 15.494 5.32654764 90 N 28 0 U3-3
+#
+# CMP 1
+CMP 5 15.00000048 29.49999942 0 N U2 ESP32-WROOM-32D ;0=1,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet/Microcontrolador'
+PRP ComponentLink1URL 'https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf'
+PRP Manufacturer 'ESP32'
+PRP Part_Number 'ESP32-WROOM-32D-N4'
+PRP Size ''
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '1965-ESP32-WROOM-32D-N4TR-ND'
+PRP System ''
+PRP Type 'MODE'
+PRP Value 'ESP32-WROOM-32D'
+TOP 0 6.24999766 38.37999944 0 N 27 23 U2-1
+TOP 1 23.74999822 38.37999944 180 N 27 0 U2-1
+TOP 2 20.70999668 20.6199994 270 N 27 16 U2-1
+TOP 3 16.49999748 30.65999964 0 N 27 13 U2-1
+TOP 4 16.49999748 30.65999964 0 N 27 14 U2-1
+TOP 5 16.49999748 30.65999964 180 N 27 9 U2-1
+TOP 6 16.49999748 29.1600001 180 N 27 12 U2-1
+TOP 7 16.49999748 32.16699688 180 N 27 7 U2-1
+TOP 8 14.99999794 30.65999964 180 N 27 10 U2-1
+TOP 9 17.99999702 30.65999964 180 N 27 5 U2-1
+TOP 10 17.99999702 29.1600001 180 N 27 6 U2-1
+TOP 11 14.99999794 29.1600001 180 N 27 11 U2-1
+TOP 12 14.99999794 32.16699688 180 N 27 8 U2-1
+TOP 13 17.99999702 32.16699688 180 N 27 3 U2-1
+TOP 14 23.74999822 37.10999944 180 N 29 0 U2-2
+TOP 15 23.74999822 35.83999944 180 N 13 0 U2-3
+TOP 16 23.74999822 34.56999944 180 N 0 6 U2-4
+TOP 17 23.74999822 33.29999944 180 N 0 7 U2-5
+TOP 18 23.74999822 32.02999944 180 N 17 0 U2-6
+TOP 19 23.74999822 30.75999944 180 N 12 0 U2-7
+TOP 20 23.74999822 29.48999944 180 N 5 0 U2-8
+TOP 21 23.74999822 28.21999944 180 N 6 0 U2-9
+TOP 22 23.74999822 26.94999944 180 N 2 0 U2-10
+TOP 23 23.74999822 25.67999944 180 N 1 0 U2-11
+TOP 24 23.74999822 24.40999944 180 N -1 0 U2-12
+TOP 25 23.74999822 23.13999944 180 N 9 1 U2-13
+TOP 26 23.74999822 21.86999944 180 N 11 0 U2-14
+TOP 27 19.43999668 20.6199994 270 N 10 1 U2-16
+TOP 28 18.16999668 20.6199994 270 N 0 0 U2-17
+TOP 29 16.89999668 20.6199994 270 N 0 1 U2-18
+TOP 30 15.62999668 20.6199994 270 N 0 2 U2-19
+TOP 31 14.35999668 20.6199994 270 N 0 5 U2-20
+TOP 32 13.08999668 20.6199994 270 N 0 3 U2-21
+TOP 33 11.81999668 20.6199994 270 N 0 4 U2-22
+TOP 34 10.54999668 20.6199994 270 N 8 1 U2-23
+TOP 35 9.27999668 20.6199994 270 N 3 0 U2-24
+TOP 36 6.24999766 21.86999944 0 N 15 1 U2-25
+TOP 37 6.24999766 23.13999944 0 N 4 1 U2-26
+TOP 38 6.24999766 24.40999944 0 N 0 8 U2-27
+TOP 39 6.24999766 25.67999944 0 N 0 9 U2-28
+TOP 40 6.24999766 26.94999944 0 N 0 10 U2-29
+TOP 41 6.24999766 28.21999944 0 N 0 11 U2-30
+TOP 42 6.24999766 29.48999944 0 N 24 1 U2-31
+TOP 43 6.24999766 30.75999944 0 N 0 12 U2-32
+TOP 44 6.24999766 32.02999944 0 N 0 13 U2-33
+TOP 45 6.24999766 33.29999944 0 N 22 0 U2-34
+TOP 46 6.24999766 34.56999944 0 N 23 0 U2-35
+TOP 47 6.24999766 35.83999944 0 N 0 14 U2-36
+TOP 48 6.24999766 37.10999944 0 N 0 15 U2-37
+#
+# CMP 2
+CMP 11 27.57099896 10.033 180 N R10 100R ;0=1,1=0.0000
+PRP CDM 'C10429'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07100RL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-100HRTR-ND'
+PRP Type 'SMD'
+PRP Value '100R'
+TOP 0 26.82099792 10.033 0 N 8 0 R10-1
+TOP 1 28.321 10.033 0 N 18 1 R10-2
+#
+# CMP 3
+CMP 11 26.53100104 14.478 0 N R8 100R ;0=1,1=0.0000
+PRP CDM 'C10429'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07100RL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-100HRTR-ND'
+PRP Type 'SMD'
+PRP Value '100R'
+TOP 0 27.28100208 14.478 180 N 9 0 R8-1
+TOP 1 25.781 14.478 180 N 19 0 R8-2
+#
+# CMP 4
+CMP 11 22.49099896 10.033 180 N R11 100R ;0=1,1=0.0000
+PRP CDM 'C10429'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07100RL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-100HRTR-ND'
+PRP Type 'SMD'
+PRP Value '100R'
+TOP 0 21.74099792 10.033 0 N 10 0 R11-1
+TOP 1 23.241 10.033 0 N 20 1 R11-2
+#
+# CMP 5
+CMP 11 21.463 14.478 0 N R9 100R ;0=1,1=0.0000
+PRP CDM 'C10429'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07100RL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-100HRTR-ND'
+PRP Type 'SMD'
+PRP Value '100R'
+TOP 0 22.21300104 14.478 180 N 11 1 R9-1
+TOP 1 20.71299896 14.478 180 N 21 0 R9-2
+#
+# CMP 6
+CMP 0 7.99999924 1.69999914 0 N CN6 440055-2 ;0=2,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://www.te.com/usa-en/product-440055-2.datasheet.pdf'
+PRP Manufacturer 'TE Connectivity AMP Connectors'
+PRP Part_Number '440055-2'
+PRP Size '2.00MM'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 'A100043-ND'
+PRP System 'Connector'
+PRP Type 'PTH'
+PRP Value '440055-2'
+TOP 0 6.9999987 1.69999914 0 N 27 31 CN6-1
+TOP 1 8.99999978 1.69999914 0 N 28 4 CN6-2
+#
+# CMP 7
+CMP 8 15.494 9.271 0 N C7 1uF ;0=1,1=0.0000
+PRP CDM 'C10682'
+PRP Coeficiente_de_temperatura 'X5R'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Part_Number 'C1608X5R1H105K080AB'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-7468-2-ND'
+PRP Type 'SMD'
+PRP Value '1uF'
+TOP 0 16.2939984 9.271 180 N 29 8 C7-1
+TOP 1 14.69399652 9.271 180 N 27 17 C7-2
+#
+# CMP 8
+CMP 8 12.954 6.604 270 N C8 1uF ;0=1,1=0.0000
+PRP CDM 'C10682'
+PRP Coeficiente_de_temperatura 'X5R'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Part_Number 'C1608X5R1H105K080AB'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-7468-2-ND'
+PRP Type 'SMD'
+PRP Value '1uF'
+TOP 0 12.954 5.8040016 270 N 28 1 C8-1
+TOP 1 12.954 7.40400348 270 N 27 26 C8-2
+#

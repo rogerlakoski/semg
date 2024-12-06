@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [Mestrado_Roger.SchDoc]
+   Generated File[//d.docs.live.net/8710c3183377a516/Área de Trabalho/Project_Roger/OUTPUT/Variation/BOM/Bill of Materials-Mestrado_Roger.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:04:57 PM On 12/15/2023

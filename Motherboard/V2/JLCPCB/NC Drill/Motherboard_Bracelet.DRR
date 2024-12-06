@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Motherboard_Bracelet.PcbDoc   5/28/2024  8:43:17 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Motherboard_Bracelet.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.25mm (10mil)                                            Round             10        PTH        19.00mm (0.75inch)
+T2      0.3mm (12mil)                                             Round             17        PTH        99.44mm (3.92inch)
+T3      0.5mm (20mil)                                             Round             11        PTH        44.70mm (1.76inch)
+T4      1mm (39mil)                                               Round             12        PTH        51.51mm (2.03inch)
+T5      2.5mm (98mil)                                             Round             4         NPTH       95.00mm (3.74inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              54
+
+Total Processing Time (hh:mm:ss) : 00:00:00

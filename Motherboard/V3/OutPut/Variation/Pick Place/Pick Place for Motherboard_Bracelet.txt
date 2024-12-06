@@ -1,0 +1,47 @@
+Altium Designer Pick and Place Locations
+E:\WF_Tecnologia\Roger_Lakoski_Mestrado\RL_Motherboard_Bracelet\OutPut\Variation\Pick Place\Pick Place for Motherboard_Bracelet.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/11/24
+Time:       23:36
+Revision:   0e0d8329485208518d0e9a917a5f385cbd9fa434
+Variant:    No variations
+Units used: mm
+
+Designator Comment         Layer       Footprint              Center-X(mm) Center-Y(mm) Rotation Description                                                                                                                                                                      
+CN1        440055-6        TopLayer    440055-6               -5.7000      15.0000      90       "Conector barra de pinos Furo passante, ângulo direito 6 position 0,079" (2,00mm)
+Conector Femea: 440129-6
+Terminal: 440132-1"                                                 
+U2         ESP32-WROOM-32D BottomLayer MODULO_ESP32-WROOM-32D 1.6960       32.0000      180      "RF TXRX MODULE BT TRACE ANT SMD
+Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 + EDR, Classe 1, 2 e 3 Módulo transceptor 2,4GHz a 2,5GHz Integrado, Trace Montagem em superfície" 
+CN6        440055-2        TopLayer    440055-2               4.4610       6.0000       180      "Conector barra de pinos Furo passante, ângulo direito 2 position 0,079" (2,00mm)
+Conector Femea: 440129-2
+Terminal: 440132-1"                                                 
+CN2        440055-6        TopLayer    440055-6               5.6960       15.0000      270      "Conector barra de pinos Furo passante, ângulo direito 6 position 0,079" (2,00mm)
+Conector Femea: 440129-6
+Terminal: 440132-1"                                                 
+U1         MCP73831T       TopLayer    SOT-23-5               -3.1750      31.0520      180      "CI carregador Íon / polímero de lítio SOT-23-5"                                                                                                                                 
+U3         MCP1700T        TopLayer    SOT23-3                0.3810       39.3070      180      "IC REG LINEAR 3.3V 250MA
+CI regulador de tensão linear Positivo Fixo 1 Saída 250mA SOT-23-3"                                                                                   
+SW1        Pad             TopLayer    Button_PAD(0805)       3.7690       26.9880      0        "Botão em pad 
+Tamnha 0805"                                                                                                                                                     
+R2         470R            TopLayer    SMD_R0603_F            0.2540       26.6070      180      "470 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"                                                                                        
+R3         10k             TopLayer    SMD_R0603_F            -0.7620      30.2900      270      "10 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                                                                                
+R1         10k             TopLayer    SMD_R0603_F            6.6040       34.2270      90       "10 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"                                                                                
+LD1        Red-Diffused    TopLayer    SMD_L0805              -3.0750      26.6070      0        "Vermelho 633nm Indicadores LED - Discreto 2V 0805 (métrico 2012)"                                                                                                               
+CN5        440055-2        TopLayer    440055-2               -10.4000     39.0000      90       "Conector barra de pinos Furo passante, ângulo direito 2 position 0,079" (2,00mm)
+Conector Femea: 440129-2
+Terminal: 440132-1"                                                 
+CN3        BPSC-03         TopLayer    BPSC-03                -9.9060      28.1310      270      "BARRA DE PINOS FILEIRA SIMPLES 180 GRAUS 03 VIAS DOURADA, PASSO DE 2,54MM, COMPRIMENTO DE 11,54MM"                                                                              
+CN4        440055-3        TopLayer    440055-3               -3.4610      6.0000       180      "Conector barra de pinos Furo passante, ângulo direito 3 position 0,079" (2,00mm)
+Conector Femea: 440129-3
+Terminal: 440132-1"                                                 
+C6         1uF             TopLayer    SMD_C_0603             0.8000       36.7670      0        "1 µF ±10% 50V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                                                                                         
+C7         1uF             TopLayer    SMD_C_0603             3.3020       39.3070      270      "1 µF ±10% 50V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                                                                                         
+C5         4u7F            TopLayer    SMD_C_0603             -3.6945      34.3965      0        "4.7 µF ±10% 25V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                                                                                       
+C1         10uF            TopLayer    SMD_C_0805             6.6040       31.0520      270      "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                                                                                        
+C4         4u7F            TopLayer    SMD_C_0603             -5.7150      30.2900      90       "4.7 µF ±10% 25V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                                                                                       
+C3         1uF             TopLayer    SMD_C_0603             7.4930       40.3230      90       "1 µF ±10% 50V Ceramic Capacitor X5R 0603 (1608 Metric)"                                                                                                                         
+C2         10uF            TopLayer    SMD_C_0805             5.7150       40.1960      90       "10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"                                                                                                                        

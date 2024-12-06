@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Project [Sensor_Proteses.PrjPcb]
+   Generated File[Bill of Materials-Sensor_Proteses.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 23:05:35 On 05/11/2024

@@ -1,0 +1,43 @@
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=CN4-0
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R3-2
+Added Pin To Net: NetName=NetC1_2 Pin=R5-2
+Added Pin To Net: NetName=NetC1_2 Pin=U1-6
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R4-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetElet.1_0 Pin=Elet.1-0
+Added Pin To Net: NetName=NetElet.1_0 Pin=U1-3
+Added Net: Name=NetElet.1_0
+Added Pin To Net: NetName=NetElet.3_0 Pin=Elet.3-0
+Added Pin To Net: NetName=NetElet.3_0 Pin=U1-5
+Added Net: Name=NetElet.3_0
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R4-2
+Added Pin To Net: NetName=NetR1_1 Pin=U1-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R5-1
+Added Pin To Net: NetName=NetR2_2 Pin=U1-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=Ref. Pin=C2-1
+Added Pin To Net: NetName=Ref. Pin=CN2-0
+Added Pin To Net: NetName=Ref. Pin=Elet.2-0
+Added Net: Name=Ref.
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=CN1-0
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Net: Name=VCC
+Added Pin To Net: NetName=VOUT Pin=CN3-0
+Added Pin To Net: NetName=VOUT Pin=R3-1
+Added Pin To Net: NetName=VOUT Pin=U1-7
+Added Net: Name=VOUT
+Added Class: Name=Mestrado_Roger

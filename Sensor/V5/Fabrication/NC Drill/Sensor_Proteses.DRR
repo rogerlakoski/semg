@@ -1,0 +1,17 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Sensor_Proteses.PcbDoc   05/11/2024  23:05:13
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Sensor_Proteses-RoundHoles.TXT
+ASCII SlotHoles File : Sensor_Proteses-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.15mm (6mil)                                             Round             24        PTH        40.45mm (1.59inch)
+T2      1mm (39mil)                                               Slot              2         PTH        30.11mm (1.19inch)
+T3      2mm (79mil)                                               Round             4         NPTH       65.40mm (2.57inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              30
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,26 @@
+UNITS=MM
+#Layer_Color=9474304
+#
+#Feature symbol names
+#
+$0 r254
+
+#
+#Feature attribute names
+#
+@0 .geometry
+@1 .drill
+
+#
+#Feature attribute text strings
+#
+&0 VIA_RoundD635.0000H254.0000C1270.0000
+
+#
+#Layer features
+#
+P 9.74961474 22.94004048 0 P 0 0 ;0=0,1=2
+P 12.446 19.05 0 P 0 0 ;0=0,1=2
+P 12.5000004 8.50000078 0 P 0 0 ;0=0,1=2
+P 12.5000004 31.5000005 0 P 0 0 ;0=0,1=2
+P 17.78 23.495 0 P 0 0 ;0=0,1=2

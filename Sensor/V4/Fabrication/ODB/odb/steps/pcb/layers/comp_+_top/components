@@ -1,0 +1,284 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 8 5.09500124 7.30000064 0 N TP2 TP_4952 ;0=1,1=0.0000
+PRP CDM 'C11994'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://www.keyelco.com/userAssets/file/M65p57.pdf'
+PRP Manufacturer 'Keystone Electronics'
+PRP Part_Number '4952'
+PRP Size ''
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '2019-RCWCTETR-ND'
+PRP Type 'PTH'
+PRP Value 'TP 4952'
+TOP 0 5.09500124 7.30000064 0 N 6 0 TP2-0
+TOP 1 5.09500124 7.30000064 0 N 6 3 TP2-0
+#
+# CMP 1
+CMP 8 6.36500124 22.70000032 0 N TP1 TP_4952 ;0=1,1=0.0000
+PRP CDM 'C11994'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://www.keyelco.com/userAssets/file/M65p57.pdf'
+PRP Manufacturer 'Keystone Electronics'
+PRP Part_Number '4952'
+PRP Size ''
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '2019-RCWCTETR-ND'
+PRP Type 'PTH'
+PRP Value 'TP 4952'
+TOP 0 6.36500124 22.70000032 0 N 7 0 TP1-0
+TOP 1 6.36500124 22.70000032 0 N 7 3 TP1-0
+#
+# CMP 2
+CMP 6 3.65000032 14.732 90 N R3 220R ;0=1,1=0.0000
+PRP CDM 'C10420'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07220RL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-220HRTR-ND'
+PRP Type 'SMD'
+PRP Value '220R'
+TOP 0 3.65000032 15.48200104 90 N 5 7 R3-1
+TOP 1 3.65000032 13.98199896 90 N 10 2 R3-2
+#
+# CMP 3
+CMP 0 15.00000048 6.0000007 270 N CN7 Castellated ;0=2,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL ''
+PRP Manufacturer ''
+PRP Part_Number ''
+PRP Size '(X:1.5;Y2.0;H1.5)'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP System 'Connector'
+PRP Type ''
+PRP Value 'Castellated'
+TOP 0 15.00000048 6.0000007 270 N 1 8 CN7-0
+#
+# CMP 4
+CMP 0 0 20.00000064 90 N CN6 Castellated ;0=2,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL ''
+PRP Manufacturer ''
+PRP Part_Number ''
+PRP Size '(X:1.5;Y2.0;H1.5)'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP System 'Connector'
+PRP Type ''
+PRP Value 'Castellated'
+TOP 0 0 20.00000064 90 N 11 11 CN6-0
+#
+# CMP 5
+CMP 0 15.00000048 24.00000026 270 N CN5 Castellated ;0=2,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL ''
+PRP Manufacturer ''
+PRP Part_Number ''
+PRP Size '(X:1.5;Y2.0;H1.5)'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP System 'Connector'
+PRP Type ''
+PRP Value 'Castellated'
+TOP 0 15.00000048 24.00000026 270 N 11 12 CN5-0
+#
+# CMP 6
+CMP 0 15.00000048 17.99999956 270 N CN4 Castellated ;0=2,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL ''
+PRP Manufacturer ''
+PRP Part_Number ''
+PRP Size '(X:1.5;Y2.0;H1.5)'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP System 'Connector'
+PRP Type ''
+PRP Value 'Castellated'
+TOP 0 15.00000048 17.99999956 270 N 3 8 CN4-0
+#
+# CMP 7
+CMP 0 0 15.00000048 90 N CN3 Castellated ;0=2,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL ''
+PRP Manufacturer ''
+PRP Part_Number ''
+PRP Size '(X:1.5;Y2.0;H1.5)'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP System 'Connector'
+PRP Type ''
+PRP Value 'Castellated'
+TOP 0 0 15.00000048 90 N 3 9 CN3-0
+#
+# CMP 8
+CMP 0 0 10.00000032 90 N CN2 Castellated ;0=2,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL ''
+PRP Manufacturer ''
+PRP Part_Number ''
+PRP Size '(X:1.5;Y2.0;H1.5)'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP System 'Connector'
+PRP Type ''
+PRP Value 'Castellated'
+TOP 0 0 10.00000032 90 N 2 11 CN2-0
+#
+# CMP 9
+CMP 0 15.00000048 11.99999886 270 N CN1 Castellated ;0=2,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL ''
+PRP Manufacturer ''
+PRP Part_Number ''
+PRP Size '(X:1.5;Y2.0;H1.5)'
+PRP Supplier_1 ''
+PRP Supplier_Part_Number_1 ''
+PRP System 'Connector'
+PRP Type ''
+PRP Value 'Castellated'
+TOP 0 15.00000048 11.99999886 270 N 2 12 CN1-0
+#
+# CMP 10
+CMP 7 7.00000124 15.00000048 90 N U1 LMV358AIDR ;0=1,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flmv358a'
+PRP Manufacturer 'Texas Instruments'
+PRP Part_Number 'LMV358AIDR'
+PRP Size 'SOIC-8'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '296-47593-2-ND'
+PRP System ''
+PRP Type 'SMD'
+PRP Value 'LMV358AIDR'
+TOP 0 8.90500124 17.74999752 0 N 4 4 U1-1
+TOP 1 7.63500124 17.74999752 0 N 5 8 U1-2
+TOP 2 6.36500124 17.74999752 0 N 7 2 U1-3
+TOP 3 5.09500124 17.74999752 0 N 11 14 U1-4
+TOP 4 5.09500124 12.24999836 0 N 6 2 U1-5
+TOP 5 6.36500124 12.24999836 0 N 9 8 U1-6
+TOP 6 7.63500124 12.24999836 0 N 1 10 U1-7
+TOP 7 8.90500124 12.24999836 0 N 2 13 U1-8
+#
+# CMP 11
+CMP 6 10.39999952 14.986 90 N R5 220k ;0=1,1=0.0000
+PRP CDM 'C10444'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07220KL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-220KHRTR-ND'
+PRP Type 'SMD'
+PRP Value '220k'
+TOP 0 10.39999952 15.73600104 90 N 4 2 R5-1
+TOP 1 10.39999952 14.23599896 90 N 9 6 R5-2
+#
+# CMP 12
+CMP 6 8.89 21.844 180 N R1 330k ;0=1,1=0.0000
+PRP CDM 'C12147'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07330KL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-330KHRTR-ND'
+PRP Type 'SMD'
+PRP Value '330k'
+TOP 0 9.64000104 21.844 180 N 8 3 R1-1
+TOP 1 8.13999896 21.844 180 N 5 6 R1-2
+#
+# CMP 13
+CMP 6 7.61500128 7.874 180 N R4 330k ;0=1,1=0.0000
+PRP CDM 'C12147'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07330KL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-330KHRTR-ND'
+PRP Type 'SMD'
+PRP Value '330k'
+TOP 0 8.36500232 7.874 180 N 1 9 R4-1
+TOP 1 6.86500024 7.874 180 N 9 7 R4-2
+#
+# CMP 14
+CMP 6 8.89 20.193 0 N R2 220k ;0=1,1=0.0000
+PRP CDM 'C10444'
+PRP ComponentLink1Description 'DataSheet'
+PRP ComponentLink1URL 'https://www.yageo.com/upload/media/product/app/datasheet/rchip/pyu-rc_group_51_rohs_l.pdf'
+PRP Manufacturer 'YAGEO'
+PRP Part_Number 'RC0603FR-07220KL'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '311-220KHRTR-ND'
+PRP Type 'SMD'
+PRP Value '220k'
+TOP 0 8.13999896 20.193 0 N 5 5 R2-1
+TOP 1 9.64000104 20.193 0 N 4 3 R2-2
+#
+# CMP 15
+CMP 4 11.89999906 15.00000048 270 N C2 100nF ;0=1,1=0.0000
+PRP CDM 'C10416'
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf'
+PRP Manufacturer 'TDK Corporation'
+PRP Part_Number 'C1608X7R1H104K080AA'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '445-1314-2-ND'
+PRP Type 'SMD'
+PRP Value '100nF'
+TOP 0 11.89999906 14.20000208 270 N 2 14 C2-1
+TOP 1 11.89999906 15.80000396 270 N 11 15 C2-2
+#
+# CMP 16
+CMP 4 11.811 21.844 180 N C1 27nF ;0=1,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://calchip.com/wp-content/uploads/2023/09/GMC-Series-2.pdf'
+PRP Manufacturer 'Cal-Chip Electronics, Inc.'
+PRP Part_Number 'GMC10X7R273K25NT'
+PRP Size '0603'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '2571-GMC10X7R273K25NTTR-ND'
+PRP Type 'SMD'
+PRP Value '27nF'
+TOP 0 12.6109984 21.844 180 N 11 13 C1-1
+TOP 1 11.01099652 21.844 180 N 8 2 C1-2
+#
+# CMP 17
+CMP 5 5.1650011 9.906 0 N C3 100nF ;0=1,1=0.0000
+PRP CDM ''
+PRP ComponentLink1Description 'Datasheet 1'
+PRP ComponentLink1URL 'https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf'
+PRP Manufacturer 'KEMET'
+PRP Part_Number 'C1206C104K5RAC7800'
+PRP Size '1206'
+PRP Supplier_1 'Digi-Key'
+PRP Supplier_Part_Number_1 '399-C1206C104K5RAC7800TR-ND'
+PRP Type 'SMD'
+PRP Value '100nF'
+TOP 0 3.46500196 9.906 0 N 10 3 C3-1
+TOP 1 6.86500024 9.906 0 N 9 9 C3-2
+#

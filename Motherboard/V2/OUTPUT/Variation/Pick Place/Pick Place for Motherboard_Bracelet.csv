@@ -1,0 +1,56 @@
+Altium Designer Pick and Place Locations
+E:\WF_Tecnologia\Roger_Lakoski_Mestrado\RL_Motherboard_Bracelet\OUTPUT\Variation\Pick Place\Pick Place for Motherboard_Bracelet.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/05/24
+Time:       20:44
+Revision:   95c2ed4365347aacf5c26e0ed0dfe4ce87ad06fe
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"CN2","S7B-PH-SM4-TB","TopLayer","S7B-PH-SM4-TB","25.3000","25.5000","270","Conector barra de pinos Montagem em superfície, ângulo reto 7 position 0,079" (2,00mm)
+Conector Femea: PHR-7
+Terminal: SPH-002T-P0.5L"
+"U1","MCP73831T","TopLayer","SOT-23-5","7.4930","7.6200","0","CI carregador Íon / polímero de lítio SOT-23-5"
+"CN1","S7B-PH-SM4-TB","TopLayer","S7B-PH-SM4-TB","4.7000","25.5000","90","Conector barra de pinos Montagem em superfície, ângulo reto 7 position 0,079" (2,00mm)
+Conector Femea: PHR-7
+Terminal: SPH-002T-P0.5L"
+"U3","MCP1700T","BottomLayer","SOT23-3","15.4940","6.4766","270","IC REG LINEAR 3.3V 250MA
+CI regulador de tensão linear Positivo Fixo 1 Saída 250mA SOT-23-3"
+"U2","ESP32-WROOM-32D","BottomLayer","MODULO_ESP32-WROOM-32D","15.0000","29.5000","180","RF TXRX MODULE BT TRACE ANT SMD
+Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 + EDR, Classe 1, 2 e 3 Módulo transceptor 2,4GHz a 2,5GHz Integrado, Trace Montagem em superfície"
+"SW1","Pad","TopLayer","Button_PAD(0805)","7.2390","38.6080","0","Botão em pad 
+Tamnha 0805"
+"R2","0R","TopLayer","SMD_R0603_F","11.3030","16.8910","90","RES 0 OHM JUMPER 1/10W 
+0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R3","0R","TopLayer","SMD_R0603_F","12.8270","16.8910","90","RES 0 OHM JUMPER 1/10W 
+0 Ohms Jumper Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R7","10k","TopLayer","SMD_R0603_F","4.8260","8.3000","90","10 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"
+"R1","10k","TopLayer","SMD_R0603_F","13.4740","36.4490","0","10 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"
+"R10","100R","BottomLayer","SMD_R0603_F","27.5710","10.0330","0","100 Ohms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"
+"R8","100R","BottomLayer","SMD_R0603_F","26.5310","14.4780","180","100 Ohms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"
+"R11","100R","BottomLayer","SMD_R0603_F","22.4910","10.0330","0","100 Ohms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"
+"R9","100R","BottomLayer","SMD_R0603_F","21.4630","14.4780","180","100 Ohms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"
+"R4","10k","TopLayer","SMD_R0603_F","14.6940","13.5890","90","10 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"
+"R6","470R","TopLayer","SMD_R0603_F","3.3020","8.3000","90","470 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
+"R5","10k","TopLayer","SMD_R0603_F","16.2940","13.5890","270","10 kOhms ±1% 0,1W, 1/10W Resistor de chip 0603 (métrico 1608) Resistente à umidade Filme grosso"
+"LD1","Red-Diffused","TopLayer","SMD_L0805","1.3970","8.2550","270","Vermelho 633nm Indicadores LED - Discreto 2V 0805 (métrico 2012)"
+"CN6","440055-2","BottomLayer","440055-2","8.0000","1.7000","180","Conector barra de pinos Furo passante, ângulo direito 2 position 0,079" (2,00mm)
+Conector Femea: 440129-2
+Terminal: 440132-1"
+"CN5","440055-3","TopLayer","440055-3","20.7960","6.0960","180","Conector barra de pinos Furo passante, ângulo direito 3 position 0,079" (2,00mm)
+Conector Femea: 440129-3
+Terminal: 440132-1"
+"CN3","BPSC-03","TopLayer","BPSC-03","4.0640","13.0000","0","BARRA DE PINOS FILEIRA SIMPLES 180 GRAUS 03 VIAS DOURADA, PASSO DE 2,54MM, COMPRIMENTO DE 11,54MM"
+"CN4","BPSC-04","TopLayer","BPSC-04","24.5110","12.3190","0","BARRA DE PINOS FILEIRA SIMPLES 180 GRAUS 04 VIAS DOURADA, PASSO DE 2,54MM,"
+"C6","4u7F","TopLayer","SMD_C_0603","8.0010","4.0640","180","4.7 µF ±10% 25V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C7","1uF","BottomLayer","SMD_C_0603","15.4940","9.2710","180","1 µF ±10% 50V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C8","1uF","BottomLayer","SMD_C_0603","12.9540","6.6040","90","1 µF ±10% 50V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C5","4u7F","TopLayer","SMD_C_0603","10.0330","8.2200","270","4.7 µF ±10% 25V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C1","10uF","TopLayer","SMD_C_0805","13.4740","38.3800","0","10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"
+"C4","10uF","TopLayer","SMD_C_0805","12.8489","13.4982","270","10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"
+"C3","1uF","TopLayer","SMD_C_0603","18.1610","37.5920","90","1 µF ±10% 50V Ceramic Capacitor X5R 0603 (1608 Metric)"
+"C2","10uF","TopLayer","SMD_C_0805","20.1930","37.3800","90","10 µF ±10% 10V Ceramic Capacitor X5R 0805 (2012 Metric)"

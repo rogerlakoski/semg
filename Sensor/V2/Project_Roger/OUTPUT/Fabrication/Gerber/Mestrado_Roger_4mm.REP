@@ -1,0 +1,241 @@
+*************************************************************
+FileName = Mestrado_Roger_4mm.GBR
+AutoAperture = True
+*************************************************************
+Generating : Route Tool Path
+      File : Mestrado_Roger_4mm_Route_Tool_Path.gbr
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Mestrado_Roger_4mm_Mechanical_15.gbr
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Mestrado_Roger_4mm_Mechanical_1.gbr
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Mestrado_Roger_4mm_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Mestrado_Roger_4mm_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Mestrado_Roger_4mm_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Mestrado_Roger_4mm_Soldermask_Bot.gbr
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : Mestrado_Roger_4mm_Soldermask_Top.gbr
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Mestrado_Roger_4mm_Legend_Top.gbr
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Mestrado_Roger_4mm_Pads_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Mestrado_Roger_4mm_Pads_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Mestrado_Roger_4mm_Copper_Signal_Bot.gbr
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Mestrado_Roger_4mm_Copper_Signal_Top.gbr
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D27
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : Mestrado_Roger_4mm_Drawing_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D12
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : Mestrado_Roger_4mm_Drillmap_1.gbr
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : Mestrado_Roger_4mm_Profile.gbr
+
+
+Used DCodes :
+    D35
+*************************************************************
+

@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [Motherboard_Bracelet.PrjPcb]
+   Generated File[Bill of Materials-Motherboard_Bracelet.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 8:44:54 PM On 5/28/2024

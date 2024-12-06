@@ -1,0 +1,10 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [Sensor_Proteses.SchDoc]
+   Generated File[Bill of Materials-Sensor_Proteses.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:02:08 PM On 5/7/2024
